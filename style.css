@@ -5,3 +5,7 @@ html {
 h1 {
     font-variant: small-caps;
 }
+
+body {
+    background-color: #99ccff;
+}
